@@ -1,0 +1,12 @@
+/home/stefan/Documents/FileControl/FileControl/FileControl/target/debug/deps/tempfile-445935e4ef88122b.rmeta: /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/lib.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/dir.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/error.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/mod.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/imp/mod.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/spooled.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/util.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/imp/unix.rs
+
+/home/stefan/Documents/FileControl/FileControl/FileControl/target/debug/deps/tempfile-445935e4ef88122b.d: /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/lib.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/dir.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/error.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/mod.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/imp/mod.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/spooled.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/util.rs /home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/imp/unix.rs
+
+/home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/lib.rs:
+/home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/dir.rs:
+/home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/error.rs:
+/home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/mod.rs:
+/home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/imp/mod.rs:
+/home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/spooled.rs:
+/home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/util.rs:
+/home/stefan/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.4.0/src/file/imp/unix.rs:
